@@ -1,0 +1,39 @@
+ID_PROYECTO,TX_DESCRIPCIÓN,F_INICIO,F_FIN,F_BAJA,TX_LUGAR,TX_OBSERVACIONES
+1,proyecto Mafre,2023-01-22,2024-10-02,,Madrid,proyecto seguros
+2,proyecto Seur,2022-01-22,2022-10-02,,Madrid,proyecto paquetería
+3,proyecto ayuntamiento Alcobendas,2021-01-22,2022-10-02,,Alcobendas,proyecto página web
+4,proyecto ayuntamiento San Sebastian de los Reyes,2023-01-22,2024-10-02,, San Sebastian de los Reyes,proyecto página web
+5,proyecto ayuntamiento Alcorcon,2023-01-22,2023-10-02,,Alcorcon,proyecto página web
+6,proyecto ayuntamiento Moratalaz,2023-01-22,2023-12-02,,Moratalaz,proyecto página web
+7,proyecto Caser,2021-01-22,2023-12-02,,Moratalaz,proyecto página web aseguradora
+8,proyecto Caser 2,2022-01-22,2022-12-02,,Moratalaz,proyecto página web aseguradora
+9,proyecto Caser 3,2022-06-22,2023-12-02,,Madrid,proyecto página web aseguradora
+10,proyecto Linea directa,2020-06-22,2021-12-02,,Madrid,proyecto página web aseguradora
+11,proyecto farolillos,2020-06-22,2022-12-02,,Madrid,proyecto página web feria
+12,proyecto LaCaixa,2024-03-21,,,Madrid,proyecto CRUD
+13,proyecto BBVA,2024-04-21,,,Barcelona,proyecto CRUD
+14,proyecto Santander,2023-04-21,,,Madrid,proyecto banco
+15,proyecto Santander,2023-04-21,2024-01-02,,Cuenca,proyecto banco
+16,proyecto Sabadell,2023-12-21,2024-07-02,,Cuenca,proyecto banco
+17,proyecto Unicaja,2023-12-21,2024-07-02,,Madrid,proyecto banco
+18,proyecto Ancianos,2024-08-22,,,Guadalajara,proyecto appAncianos
+19,proyecto Ancianos,2024-01-22,,,Madrid,proyecto appAncianos
+20,proyecto Ancianos 2 ,2024-03-22,,,Cuenca,proyecto appAncianos
+21,proyecto Tercera Edad,2024-03-22,2024-08-21,,Madrid,proyecto residencia
+22,proyecto Telefónica,2024-01-22,2024-08-22,,Madrid,proyecto compañía de telefonos
+23,proyecto Telefónica 2,2024-02-22,2024-08-22,,Cuenca,proyecto compañía de telefonos
+24,proyecto Telefónica,2022-02-22,2022-08-22,,Cuenca,proyecto compañía de telefonos
+25,Proyecto Madrid rio,2024-02-04,2024-05-04,,Albolote,Esto es un proyecto dedicado a...
+26,Proyecto Madrid rio,2024-02-04,2024-05-04,2024-04-23,Madrid,Esto es un proyecto dedicado a...
+27,Proyecto Caser,2022-02-04,2023-05-04,2023-04-23,Madrid,Esto es un proyecto dedicado a...
+28,Proyecto Caser 2,2022-02-04,2023-05-04,2023-04-23,Madrid,Esto es un proyecto dedicado a...
+29,Proyecto Mafre,2022-02-04,2023-05-04,2023-04-23,Madrid,Esto es un proyecto dedicado a...
+30,Proyecto Mafre,2021-02-04,2022-05-04,2022-04-23,Madrid,Esto es un proyecto dedicado a...
+31,Proyecto Mafre,2020-02-04,2020-05-04,2020-04-23,Madrid,Esto es un proyecto dedicado a...
+32,proyecto Mafre,2023-01-22,2024-10-02,,Madrid,proyecto seguros
+33,proyecto intranet,2023-01-22,2024-10-02,,Madrid,proyecto intranet de la empresa
+34,proyecto intranet,2023-01-22,2024-10-02,2024-05-12,Madrid,proyecto intranet de la empresa
+35,proyecto intranet,2022-01-22,2023-10-02,2023-05-12,Madrid,proyecto intranet de la empresa
+36,proyecto colmena,2024-05-19,2024-09-19,,Alcobendas,
+37,proyecto app guarderías,2024-01-19,2024-07-19,,Alcobendas,
+38,proyecto app guarderías,2024-01-19,2024-07-19,2024-05-19,Madrid,
